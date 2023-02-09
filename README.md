@@ -10,7 +10,6 @@ You are welcome to use this code for your own glossary project. Here are [instru
 
 If you'd like to help with the glossary we'd love to have your contributions! Please see [How to Contribute](https://glossary.cncf.io/contribute).
 
-
 ## Acknowledgements
 
 The Cloud Native Glossary was initiated by the CNCF Marketing 
@@ -34,3 +33,5 @@ npm install
 ```
 
 You can then run the site using `hugo server`.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=cncf/glossary)
